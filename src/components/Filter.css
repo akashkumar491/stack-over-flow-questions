@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.form__input {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input, select {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+  border: none;
+}
+
+.container__form {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  background-color: rgb(155, 153, 148);
+  border-radius: 5px;
+  padding: 20px;
+}/*# sourceMappingURL=Filter.css.map */
